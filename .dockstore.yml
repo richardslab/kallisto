@@ -1,0 +1,5 @@
+version: 1.0
+workflows:
+  - name: kallisto_index_step1
+    subclass: WDL
+    primaryDescriptorPath: /wdl/kallisto_index_step1.wdl
