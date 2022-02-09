@@ -1,4 +1,4 @@
-# v1.0
+version 1.0
 
 workflow Kallisto_index_step1{
   File Homo_sapiens.GRCh38.cdna.fasta
